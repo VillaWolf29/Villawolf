@@ -88,18 +88,16 @@ A continuación, algunos de los proyectos en los que he trabajado:
 ### 🛒 E-commerce "Technosystem" (2025)
 - **Descripción:** Colaboré como desarrollador Frontend en la creación de una plataforma de comercio electrónico.
 - **Tecnologías:** `React`, `Tailwind CSS`, `JavaScript`, `GitHub`.
-- **Repositorio:** `[Ver en GitHub](ENLACE-A-TU-REPOSITORIO)` ### 📄 Landing Page para "Smart Factory Chain" (2025)
+- **Repositorio:** `[[Ver en GitHub](ENLACE-A-TU-REPOSITORIO)](https://github.com/HamGarT/technosystem-shop.git)` ### 📄 Landing Page para "Smart Factory Chain" (2025)
 - **Descripción:** Diseño e implementación de una página de aterrizaje para una empresa de la industria 4.0.
 - **Tecnologías:** `HTML`, `CSS`, `JavaScript`, `Python`.
-- **Repositorio:** `[Ver en GitHub](ENLACE-A-TU-REPOSITORIO)` ### 💧 Sistema de Control de Flujo de Agua (2024)
+- **Repositorio:** `[[Ver en GitHub](ENLACE-A-TU-REPOSITORIO)](https://github.com/VillaWolf29/LandingPageSFC.git)` ### 💧 Sistema de Control de Flujo de Agua (2024)
 - **Descripción:** Proyecto IoT para medir y regular el volumen de agua utilizando sensores ultrasónicos y Arduino.
 - **Tecnologías:** `Python`, `HTML`.
-- **Repositorio:** `[Ver en GitHub](ENLACE-A-TU-REPOSITORIO)` ---
+- **Repositorio:** `[[Ver en GitHub](ENLACE-A-TU-REPOSITORIO)](https://github.com/llanosNEGO/Control-agua-electronico.git)` ---
 
 ## 📊 Mis Estadísticas en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VillaWolf29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de Juan en GitHub">
-  <br>
+<p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VillaWolf29&layout=compact&langs_count=8&theme=dracula" alt="Lenguajes más usados por Juan">
 </p>
