@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="margin-right: 10px;">
-  ¡Hola! Soy Juan Alberto Villalobos
+  ¡Hola! Soy Juan Villalobos
 </h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas Computacionales | Desarrollador de Software Jr.</h3>
 
