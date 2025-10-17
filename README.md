@@ -5,16 +5,16 @@
 <h3 align="center">Estudiante de Ingeniería de Sistemas Computacionales | Desarrollador de Software Jr.</h3>
 
 <p align="center">
-  <a href="https://wa.me/51[TU-NÚMERO-DE-WHATSAPP]" target="_blank">
+  <a href="https://wa.me/51934143000" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="mailto:jdoblea29@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.instagram.com/[TU-USUARIO-DE-INSTAGRAM]" target="_blank">
+  <a href="https://www.instagram.com/villawolf_29" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/[TU-USUARIO-DE-FACEBOOK]" target="_blank">
+  <a href="https://www.facebook.com/juan.villalobos.865252" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
