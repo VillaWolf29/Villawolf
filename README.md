@@ -89,12 +89,18 @@ A continuación, algunos de los proyectos en los que he trabajado:
 - **Descripción:** Colaboré como desarrollador Frontend en la creación de una plataforma de comercio electrónico.
 - **Tecnologías:** `React`, `Tailwind CSS`, `JavaScript`, `GitHub`.
 - **Repositorio:** `[(https://github.com/HamGarT/technosystem-shop.git)` ### 📄 Landing Page para "Smart Factory Chain" (2025)
+
+### 📄 Landing Page para "Smart Factory Chain" (2025)
 - **Descripción:** Diseño e implementación de una página de aterrizaje para una empresa de la industria 4.0.
 - **Tecnologías:** `HTML`, `CSS`, `JavaScript`, `Python`.
 - **Repositorio:** `[(https://github.com/VillaWolf29/LandingPageSFC.git)` ### 💧 Sistema de Control de Flujo de Agua (2024)
+
+### 💧 Sistema de Control de Flujo de Agua (2024)
 - **Descripción:** Proyecto IoT para medir y regular el volumen de agua utilizando sensores ultrasónicos y Arduino.
 - **Tecnologías:** `Python`, `HTML`.
 - **Repositorio:** `[(https://github.com/llanosNEGO/Control-agua-electronico.git)` ---
+  
+  
 
 ## 📊 Mis Estadísticas en GitHub
 
