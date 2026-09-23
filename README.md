@@ -84,14 +84,14 @@ Soy un estudiante del decimo ciclo de **Ingeniería de Sistemas Computacionales*
 ## 🚀 Proyectos Destacados
 
 A continuación, algunos de los proyectos en los que he trabajado:
-### 🛒 Software para la empresa “Grupo RVA”(2026)
+### Software para la empresa “Grupo RVA”(2026)
 - **Descripción:** Colaboré como desarrollador Frontend en la creación de una plataforma de comercio de acabados.
 - **Tecnologías:** `php`, `html`, `Bootstrap`.
   
-### 🛒 Software para la empresa “Jardin Nuestra Señora de
-Monserat”(2026)
+### Software para la empresa “Jardin Nuestra Señora de Monserat”(2026)
 - **Descripción:** Colaboré como desarrollador Frontend.
 - **Tecnologías:** `React`, `Bootstrap CSS`.
+- **Repositorio:** `[(https://github.com/llanosNEGO/JardinMonserratFront.git)]`
 
 ### 🛒 E-commerce "Technosystem" (2025)
 - **Descripción:** Colaboré como desarrollador Frontend en la creación de una plataforma de comercio electrónico.
