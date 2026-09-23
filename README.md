@@ -84,6 +84,14 @@ Soy un estudiante del decimo ciclo de **Ingeniería de Sistemas Computacionales*
 ## 🚀 Proyectos Destacados
 
 A continuación, algunos de los proyectos en los que he trabajado:
+### 🛒 Software para la empresa “Grupo RVA”(2026)
+- **Descripción:** Colaboré como desarrollador Frontend en la creación de una plataforma de comercio de acabados.
+- **Tecnologías:** `php`, `html`, `Bootstrap`.
+  
+### 🛒 Software para la empresa “Jardin Nuestra Señora de
+Monserat”(2026)
+- **Descripción:** Colaboré como desarrollador Frontend.
+- **Tecnologías:** `React`, `Bootstrap CSS`.
 
 ### 🛒 E-commerce "Technosystem" (2025)
 - **Descripción:** Colaboré como desarrollador Frontend en la creación de una plataforma de comercio electrónico.
@@ -102,7 +110,6 @@ A continuación, algunos de los proyectos en los que he trabajado:
   
   
 
-## 📊 Mis Estadísticas en GitHub
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VillaWolf29&layout=compact&langs_count=8&theme=dracula" alt="Lenguajes más usados por Juan">
