@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Acerca de mí
 
-Soy un estudiante del octavo ciclo de **Ingeniería de Sistemas Computacionales** en la Universidad Privada del Norte, apasionado por el aprendizaje continuo y el desarrollo de soluciones tecnológicas que mejoran procesos. Me especializo en el desarrollo web con un enfoque en el frontend, pero también tengo conocimientos sólidos en backend y bases de datos.
+Soy un estudiante del decimo ciclo de **Ingeniería de Sistemas Computacionales** en la Universidad Privada del Norte, apasionado por el aprendizaje continuo y el desarrollo de soluciones tecnológicas que mejoran procesos. Me especializo en el desarrollo web con un enfoque en el frontend, pero también tengo conocimientos sólidos en backend y bases de datos.
 
 - 🌱 Actualmente estoy profundizando mis habilidades en **React** y explorando el ecosistema de **Node.js**.
 - 👯 Busco colaborar en proyectos de código abierto relacionados con desarrollo web y soluciones IoT.
